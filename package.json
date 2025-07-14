@@ -1,5 +1,5 @@
 {
-  "name": "p71",
+  "name": "p73",
   "version": "0.1.0",
   "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
   "license": "CC0 1.0",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iqb-vocabs/p71.git"
+    "url": "git+https://github.com/iqb-vocabs/p73.git"
   },
   "bugs": {
-    "url": "https://github.com/iqb-vocabs/p71/issues"
+    "url": "https://github.com/iqb-vocabs/p73/issues"
   },
-  "homepage": "https://github.com/iqb-vocabs/p71#readme",
+  "homepage": "https://github.com/iqb-vocabs/p73#readme",
   "dependencies": {
     "@iqb/validate-md-profile": "^0.8.5"
   }
