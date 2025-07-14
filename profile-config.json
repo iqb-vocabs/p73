@@ -1,0 +1,14 @@
+{
+  "id": "phs1",
+  "title": [
+    {
+      "lang": "de",
+      "value": "Metadatenprofile für Testaufgaben: Physik Sek I"
+    }
+  ],
+  "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "profiles": [
+    "unit.json",
+    "item.json"
+  ]
+}
