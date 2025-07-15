@@ -46,8 +46,6 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p73/master/item.jso
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
 | Itemformat | [Vokabular](https://w3id.org/iqb/v27/ns/) | url: 'https://w3id.org/iqb/v27/ns/', Einmalauswahl, Nummerierung unterdrückt | iqb_itemformat |
-| ESNaS kognitiver Prozess | [Vokabular](https://w3id.org/iqb/v29/ep/) | url: 'https://w3id.org/iqb/v29/ep/', Einmalauswahl, Nummerierung unterdrückt | iqb_esnas_process |
-| ESNaS Komplexität | [Vokabular](https://w3id.org/iqb/v29/ek/) | url: 'https://w3id.org/iqb/v29/ek/', Einmalauswahl, Nummerierung unterdrückt | iqb_esnas_complexity |
 | Anforderungsbereich | [Vokabular](https://w3id.org/iqb/v47/a1/) | url: 'https://w3id.org/iqb/v47/a1/', Einmalauswahl, Nummerierung unterdrückt | iqb_requirement_area |
 | Bildungsstandard MSA | [Vokabular](https://w3id.org/iqb/v47/k1/) | url: 'https://w3id.org/iqb/v47/k1/', Mehrfachauswahl | iqb_standards_msa |
 | Basiskonzept | [Vokabular](https://w3id.org/iqb/v47/b1/) | url: 'https://w3id.org/iqb/v47/b1/', Mehrfachauswahl | iqb_basic_concept |
