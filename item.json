@@ -1,9 +1,14 @@
 {
   "id": "https://raw.githubusercontent.com/iqb-vocabs/p73/master/item.json",
-  "label": [{
-    "lang": "de",
-    "value": "IQB Physik Sek I - Item"
-  }],
+  "label": [
+    {
+      "lang": "de",
+      "value": "IQB Physik Sek I - Item"
+    }
+  ],
+  "target": [
+    "ITEM"
+  ],
   "groups": [
     {
       "label": [
@@ -21,7 +26,7 @@
               "value": "Itemformat"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v27/ns/",
             "allowMultipleValues": false,
@@ -36,7 +41,7 @@
               "value": "ESNaS kognitiver Prozess"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v29/ep/",
             "allowMultipleValues": false,
@@ -51,7 +56,7 @@
               "value": "ESNaS Komplexität"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v29/ek/",
             "allowMultipleValues": false,
@@ -66,7 +71,7 @@
               "value": "Bildungsstandard MSA"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v47/k1/",
             "allowMultipleValues": true
@@ -80,7 +85,7 @@
               "value": "Basiskonzept"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v47/b1/",
             "allowMultipleValues": true
@@ -94,7 +99,7 @@
               "value": "Verbindlicher inhaltlicher Aspekt"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v47/i1/",
             "allowMultipleValues": true
@@ -108,7 +113,7 @@
               "value": "Itemzeit"
             }
           ],
-          "type": "number",
+          "type": "NUMBER",
           "parameters": {
             "minValue": 0,
             "digits": 0,
@@ -123,7 +128,7 @@
               "value": "Technische Besonderheiten der Antwortoptionen"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v27/ti/",
             "allowMultipleValues": true

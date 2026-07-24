@@ -8,7 +8,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 ## Profil "IQB Physik Sek I - Aufgabe"
 
-ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p73/master/unit.json`
+ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p73/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p73/master/unit.json)
 
 ### Stimulus
 
@@ -20,7 +20,6 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p73/master/unit.jso
 | Kompetenzbereich | [Vokabular](https://w3id.org/iqb/v47/k1/) | url: 'https://w3id.org/iqb/v47/k1/', Einmalauswahl, Zeige nur erste Ebene, Dialogbox, Nummerierung unterdrückt | iqb_competence |
 | Medien (Stimulus) | [Vokabular](https://w3id.org/iqb/v29/me/) | url: 'https://w3id.org/iqb/v29/me/', Mehrfachauswahl, Dialogbox | iqb_media |
 | Angaben zum Urtext und zu Inspirationsquellen | Text | Mehrzeilig, Sprache(n): de   | iqb_additional_info |
-| Instruktionszeit | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_instructions |
 | Stimuluszeit | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_stimulus |
 | Aufgabenzeit | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_unit |
 | Notizfeld | Text | Mehrzeilig, Sprache(n): de   | iqb_note_field |
@@ -41,7 +40,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p73/master/unit.jso
 
 ## Profil "IQB Physik Sek I - Item"
 
-ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p73/master/item.json`
+ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p73/master/item.json](https://raw.githubusercontent.com/iqb-vocabs/p73/master/item.json)
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
